@@ -1,0 +1,13 @@
+.GameBoard {
+    margin: 0 auto;
+    text-align: center;
+    width: 75%;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 5px 0px;
+    width: 75%;
+    border: 1px solid black;
+    border-radius: 16px;
+}
